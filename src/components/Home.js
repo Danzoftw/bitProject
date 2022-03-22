@@ -26,7 +26,7 @@ const Home = () => {
   return (
   
     <div className="container">
-      <h2>New Home</h2>
+      <h2>Hello New Home!</h2>
       {/* <header className="jumbotron">
         <h3>{content}</h3>
       </header> */}
